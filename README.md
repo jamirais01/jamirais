@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-_My name is Jamilya. I am now starting a new chapter in my career. I am working on changing my career path and have started studying at LAB University of Applied Sciences to obtain a degree in Industrial Engineering._
+_My name is Jamilya. I am now starting a new chapter in my life. I am working on changing my career path and have started studying at LAB University of Applied Sciences to obtain a degree in Industrial Engineering._
 
 <!--
 **jamirais01/jamirais01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
